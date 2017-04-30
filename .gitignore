@@ -1,0 +1,7 @@
+html/*
+images/
+.DS_Store
+*.csv
+vendor
+*.xlsx
+
